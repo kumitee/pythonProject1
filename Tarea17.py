@@ -34,3 +34,6 @@ if __name__ == "__main__":
         print(multi(numUno,numDos))
     elif selT == "4":
         print(div(numUno,numDos))
+
+
+print("error")
